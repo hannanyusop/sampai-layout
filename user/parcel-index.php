@@ -52,7 +52,7 @@
                                                 <td class="tb-tnx-id"><span>1</span></td>
                                                 <td class="tb-tnx-info">
                                                     <div class="tb-tnx-desc">
-                                                        <a href=""><span class="title font-weight-bold">ER23468473MY</span></a>
+                                                        <a href="user/parcel-view.php"><span class="title font-weight-bold">ER23468473MY</span></a>
                                                     </div>
                                                     <div class="tb-tnx-date">
                                                         <span>Baju Shopee</span>
@@ -72,7 +72,7 @@
                                                 <td class="tb-tnx-id"><span>1</span></td>
                                                 <td class="tb-tnx-info">
                                                     <div class="tb-tnx-desc">
-                                                        <a href=""><span class="title font-weight-bold">PNX324568763</span></a>
+                                                        <span class="title font-weight-bold">PNX324568763</span>
                                                     </div>
                                                     <div class="tb-tnx-date">
                                                         <span>Sim Yodoo</span>

@@ -26,6 +26,79 @@
                                         </div>
                                     </div>
                                 </div><!-- .nk-block-head -->
+
+                                <div class="nk-block">
+                                    <div class="row g-2">
+                                        <div class="col-sm-3">
+                                            <div class="card bg-light">
+                                                <div class="nk-wgw sm">
+                                                    <a class="nk-wgw-inner" href="#">
+                                                        <div class="nk-wgw-name">
+                                                            <div class="nk-wgw-icon">
+                                                                <em class="icon ni ni-search"></em>
+                                                            </div>
+                                                            <h5 class="nk-wgw-title title">Pending</h5>
+                                                        </div>
+                                                        <div class="nk-wgw-balance">
+                                                            <div class="amount">0</div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div><!-- .col -->
+                                        <div class="col-sm-3">
+                                            <div class="card bg-light">
+                                                <div class="nk-wgw sm">
+                                                    <a class="nk-wgw-inner" href="#">
+                                                        <div class="nk-wgw-name">
+                                                            <div class="nk-wgw-icon">
+                                                                <em class="icon ni ni-truck"></em>
+                                                            </div>
+                                                            <h5 class="nk-wgw-title title">In Transit</h5>
+                                                        </div>
+                                                        <div class="nk-wgw-balance">
+                                                            <div class="amount">2</div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="card bg-light">
+                                                <div class="nk-wgw sm">
+                                                    <a class="nk-wgw-inner" href="#">
+                                                        <div class="nk-wgw-name">
+                                                            <div class="nk-wgw-icon">
+                                                                <em class="icon ni ni-text-rich"></em>
+                                                            </div>
+                                                            <h5 class="nk-wgw-title title">Arrive</h5>
+                                                        </div>
+                                                        <div class="nk-wgw-balance">
+                                                            <div class="amount">0</div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-3">
+                                            <div class="card bg-light">
+                                                <div class="nk-wgw sm">
+                                                    <a class="nk-wgw-inner" href="#">
+                                                        <div class="nk-wgw-name">
+                                                            <div class="nk-wgw-icon">
+                                                                <em class="icon ni ni-check-thick"></em>
+                                                            </div>
+                                                            <h5 class="nk-wgw-title title">Received</h5>
+                                                        </div>
+                                                        <div class="nk-wgw-balance">
+                                                            <div class="amount">5</div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div><!-- .col -->
+                                    </div><!-- .row -->
+                                </div>
                                 <div class="nk-block">
                                     <div class="row g-gs">
                                         <div class="col-md-6">
@@ -213,104 +286,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div><!-- .nk-block -->
-                                <div class="nk-block">
-                                    <div class="card card-bordered">
-                                        <div class="card-inner card-inner-md">
-                                            <div class="card-title-group">
-                                                <h6 class="card-title">Payment History</h6>
-                                                <div class="card-action">
-                                                    <a href="../../html/subscription/payments.html" class="link link-sm">See All <em class="icon ni ni-chevron-right"></em></a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <table class="table table-tranx">
-                                            <thead>
-                                            <tr class="tb-tnx-head">
-                                                <th class="tb-tnx-id"><span class="">#</span></th>
-                                                <th class="tb-tnx-info">
-                                                            <span class="tb-tnx-desc d-none d-sm-inline-block">
-                                                                <span>Bill For</span>
-                                                            </span>
-                                                    <span class="tb-tnx-date d-md-inline-block d-none">
-                                                                <span class="d-md-none">Date</span>
-                                                                <span class="d-none d-md-block">
-                                                                    <span>Issue Date</span>
-                                                                    <span>Due Date</span>
-                                                                </span>
-                                                            </span>
-                                                </th>
-                                                <th class="tb-tnx-amount">
-                                                    <span class="tb-tnx-total">Total</span>
-                                                    <span class="tb-tnx-status d-none d-md-inline-block">Status</span>
-                                                </th>
-                                            </thead>
-                                            <tbody>
-                                            <tr class="tb-tnx-item">
-                                                <td class="tb-tnx-id">
-                                                    <a href="#"><span>4947</span></a>
-                                                </td>
-                                                <td class="tb-tnx-info">
-                                                    <div class="tb-tnx-desc">
-                                                        <span class="title">Enterprize Year Subscrition</span>
-                                                    </div>
-                                                    <div class="tb-tnx-date">
-                                                        <span class="date">10-05-2019</span>
-                                                        <span class="date">10-13-2019</span>
-                                                    </div>
-                                                </td>
-                                                <td class="tb-tnx-amount">
-                                                    <div class="tb-tnx-total">
-                                                        <span class="amount">$599.00</span>
-                                                    </div>
-                                                    <div class="tb-tnx-status">
-                                                        <span class="badge badge-dot badge-warning">Due</span>
-                                                    </div>
-                                                </td>
-                                            </tr><!-- .tb-tnx-item -->
-                                            <tr class="tb-tnx-item">
-                                                <td class="tb-tnx-id">
-                                                    <a href="#"><span>4904</span></a>
-                                                </td>
-                                                <td class="tb-tnx-info">
-                                                    <div class="tb-tnx-desc">
-                                                        <span class="title">Maintenance Year Subscription</span>
-                                                    </div>
-                                                    <div class="tb-tnx-date">
-                                                        <span class="date">06-19-2019</span>
-                                                        <span class="date">06-26-2019</span>
-                                                    </div>
-                                                </td>
-                                                <td class="tb-tnx-amount">
-                                                    <div class="tb-tnx-total">
-                                                        <span class="amount">$99.00</span>
-                                                    </div>
-                                                    <div class="tb-tnx-status"><span class="badge badge-dot badge-success">Paid</span></div>
-                                                </td>
-                                            </tr><!-- .tb-tnx-item -->
-                                            <tr class="tb-tnx-item">
-                                                <td class="tb-tnx-id">
-                                                    <a href="#"><span>4829</span></a>
-                                                </td>
-                                                <td class="tb-tnx-info">
-                                                    <div class="tb-tnx-desc">
-                                                        <span class="title">Enterprize Year Subscrition</span>
-                                                    </div>
-                                                    <div class="tb-tnx-date">
-                                                        <span class="date">10-04-2018</span>
-                                                        <span class="date">10-12-2018</span>
-                                                    </div>
-                                                </td>
-                                                <td class="tb-tnx-amount">
-                                                    <div class="tb-tnx-total">
-                                                        <span class="amount">$599.00</span>
-                                                    </div>
-                                                    <div class="tb-tnx-status"><span class="badge badge-dot badge-success">Paid</span></div>
-                                                </td>
-                                            </tr><!-- .tb-tnx-item -->
-                                            </tbody>
-                                        </table>
-                                    </div><!-- .card -->
                                 </div><!-- .nk-block -->
                             </div>
 
