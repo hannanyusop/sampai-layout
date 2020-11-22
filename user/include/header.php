@@ -7,7 +7,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="../../images/favicon.png">
     <!-- Page Title  -->
-    <title>Subscription Dashboard | DashLite Admin Template</title>
+    <title>Sampai @ UTem-mel</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="../../assets/css/dashlite.css?ver=1.4.0">
     <link id="skin-default" rel="stylesheet" href="../../assets/css/theme.css?ver=1.4.0">

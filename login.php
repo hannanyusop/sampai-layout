@@ -9,7 +9,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="./images/favicon.png">
     <!-- Page Title  -->
-    <title>Login | DashLite Admin Template</title>
+    <title>Sampai @ Utem-mel</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="./assets/css/dashlite.css?ver=1.4.0">
     <link id="skin-default" rel="stylesheet" href="./assets/css/theme.css?ver=1.4.0">
@@ -74,55 +74,6 @@
                 </ul>
                 <div class="text-center mt-5">
                     <span class="fw-500">I don't have an account? <a href="#">Try 15 days free</a></span>
-                </div>
-            </div><!-- .nk-block -->
-            <div class="nk-block nk-auth-footer">
-                <div class="nk-block-between">
-                    <ul class="nav nav-sm">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Terms & Condition</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Privacy Policy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Help</a>
-                        </li>
-                        <li class="nav-item dropup">
-                            <a class="dropdown-toggle dropdown-indicator has-indicator nav-link" data-toggle="dropdown" data-offset="0,10"><small>English</small></a>
-                            <div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">
-                                <ul class="language-list">
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/english.png" alt="" class="language-flag">
-                                            <span class="language-name">English</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/spanish.png" alt="" class="language-flag">
-                                            <span class="language-name">Español</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/french.png" alt="" class="language-flag">
-                                            <span class="language-name">Français</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/turkey.png" alt="" class="language-flag">
-                                            <span class="language-name">Türkçe</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
-                    </ul><!-- .nav -->
-                </div>
-                <div class="mt-3">
-                    <p>&copy; 2019 DashLite. All Rights Reserved.</p>
                 </div>
             </div><!-- .nk-block -->
         </div><!-- .nk-split-content -->

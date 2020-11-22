@@ -53,37 +53,24 @@
                                 <div class="card card-bordered mt-3">
                                     <div class="card-inner">
                                         <div class="timeline">
-                                            <h6 class="timeline-head">November, 2019</h6>
+                                            <h6 class="timeline-head">November, 2020</h6>
                                             <ul class="timeline-list">
                                                 <li class="timeline-item">
-                                                    <div class="timeline-status bg-primary is-outline"></div>
-                                                    <div class="timeline-date">13 Nov <em class="icon ni ni-alarm-alt"></em></div>
-                                                    <div class="timeline-data">
-                                                        <h6 class="timeline-title">Submited KYC Application</h6>
-                                                        <div class="timeline-des">
-                                                            <p>Re-submitted KYC Application form.</p>
-                                                            <span class="time">09:30am</span>
-                                                        </div>
-                                                    </div>
-                                                </li>
-                                                <li class="timeline-item">
                                                     <div class="timeline-status bg-primary"></div>
-                                                    <div class="timeline-date">13 Nov <em class="icon ni ni-alarm-alt"></em></div>
+                                                    <div class="timeline-date">12 Nov <em class="icon ni ni-alarm-alt"></em></div>
                                                     <div class="timeline-data">
-                                                        <h6 class="timeline-title">Submited KYC Application</h6>
+                                                        <h6 class="timeline-title">Pacel has departed to LES</h6>
                                                         <div class="timeline-des">
-                                                            <p>Re-submitted KYC Application form.</p>
-                                                            <span class="time">09:30am</span>
+                                                            <span class="time">1:15am</span>
                                                         </div>
                                                     </div>
                                                 </li>
                                                 <li class="timeline-item">
                                                     <div class="timeline-status bg-pink"></div>
-                                                    <div class="timeline-date">13 Nov <em class="icon ni ni-alarm-alt"></em></div>
+                                                    <div class="timeline-date">11 Nov <em class="icon ni ni-alarm-alt"></em></div>
                                                     <div class="timeline-data">
-                                                        <h6 class="timeline-title">Submited KYC Application</h6>
+                                                        <h6 class="timeline-title">Arrived at Utem-mel</h6>
                                                         <div class="timeline-des">
-                                                            <p>Re-submitted KYC Application form.</p>
                                                             <span class="time">09:30am</span>
                                                         </div>
                                                     </div>
