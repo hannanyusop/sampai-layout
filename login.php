@@ -34,7 +34,7 @@
                     <div class="nk-block-head-content">
                         <h5 class="nk-block-title">Sign-In</h5>
                         <div class="nk-block-des">
-                            <p>Access the DashLite panel using your email and passcode.</p>
+                            <p>Access the panel using your email and passcode.</p>
                         </div>
                     </div>
                 </div><!-- .nk-block-head -->
@@ -42,7 +42,6 @@
                     <div class="form-group">
                         <div class="form-label-group">
                             <label class="form-label" for="default-01">Email or Username</label>
-                            <a class="link link-primary link-sm" tabindex="-1" href="#">Need Help?</a>
                         </div>
                         <input type="text" class="form-control form-control-lg" id="default-01" placeholder="Enter your email address or username">
                     </div><!-- .foem-group -->
@@ -64,16 +63,6 @@
                     </div>
                 </form><!-- form -->
                 <div class="form-note-s2 pt-4"> New on our platform? <a href="#">Create an account</a>
-                </div>
-                <div class="text-center pt-4 pb-3">
-                    <h6 class="overline-title overline-title-sap"><span>OR</span></h6>
-                </div>
-                <ul class="nav justify-center gx-4">
-                    <li class="nav-item"><a class="nav-link" href="#">Facebook</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Google</a></li>
-                </ul>
-                <div class="text-center mt-5">
-                    <span class="fw-500">I don't have an account? <a href="#">Try 15 days free</a></span>
                 </div>
             </div><!-- .nk-block -->
         </div><!-- .nk-split-content -->

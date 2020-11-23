@@ -44,6 +44,9 @@
                         <a href="user/admin-trip-add.php" class="nk-menu-link">
                             <span class="nk-menu-text">Add Trip</span>
                         </a>
+                        <a href="user/admin-trip-receive.php" class="nk-menu-link">
+                            <span class="nk-menu-text">Receive Trip (DP)</span>
+                        </a>
                     </li>
                 </ul>
             </li>
