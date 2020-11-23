@@ -10,6 +10,10 @@
                     <span class="nk-menu-icon"><em class="icon ni ni-dashboard"></em></span>
                     <span class="nk-menu-text">Dashboard</span>
                 </a>
+                <a href="user/admin-index.php" class="nk-menu-link">
+                    <span class="nk-menu-icon"><em class="icon ni ni-dashboard"></em></span>
+                    <span class="nk-menu-text">Admin Dashboard</span>
+                </a>
             </li>
             <li class="nk-menu-item">
                 <a href="#" class="nk-menu-link">
@@ -28,39 +32,23 @@
                 </ul>
             </li>
             <li class="nk-menu-item">
-                <a href="user/sample.php" class="nk-menu-link">
-                    <span class="nk-menu-icon"><em class="icon ni ni-file-text"></em></span>
-                    <span class="nk-menu-text">Sample Page</span>
-                </a>
-            </li>
-
-            <li class="nk-menu-heading">
-                <h6 class="overline-title">See Others</h6>
-            </li>
-            <li class="nk-menu-item">
                 <a href="#" class="nk-menu-link">
-                    <span class="nk-menu-icon"><em class="icon ni ni-files"></em></span>
-                    <span class="nk-menu-text">Link</span>
+                    <span class="nk-menu-icon"><em class="icon ni ni-tags"></em></span>
+                    <span class="nk-menu-text">Trip Management (Admin)</span>
                 </a>
                 <ul class="nk-menu-sub">
                     <li class="nk-menu-item">
-                        <a href="#" class="nk-menu-link">
-                            <span class="nk-menu-text">Example Sub Link</span>
+                        <a href="user/admin-trip-index.php" class="nk-menu-link">
+                            <span class="nk-menu-text">List</span>
+                        </a>
+                        <a href="user/admin-trip-add.php" class="nk-menu-link">
+                            <span class="nk-menu-text">Add Trip</span>
+                        </a>
+                        <a href="user/admin-trip-receive.php" class="nk-menu-link">
+                            <span class="nk-menu-text">Receive Trip (DP)</span>
                         </a>
                     </li>
                 </ul>
-            </li>
-        </ul>
-        <!-- Menu -->
-        <ul class="nk-menu nk-menu-sm">
-            <!-- Menu -->
-            <li class="nk-menu-heading">
-                <span>Help Center</span>
-            </li>
-            <li class="nk-menu-item">
-                <a href="#" class="nk-menu-link">
-                    <span class="nk-menu-text">Example Sub link</span>
-                </a>
             </li>
         </ul>
     </div>

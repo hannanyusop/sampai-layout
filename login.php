@@ -9,7 +9,7 @@
     <!-- Fav Icon  -->
     <link rel="shortcut icon" href="./images/favicon.png">
     <!-- Page Title  -->
-    <title>Login | DashLite Admin Template</title>
+    <title>Sampai @ Utem-mel</title>
     <!-- StyleSheets  -->
     <link rel="stylesheet" href="./assets/css/dashlite.css?ver=1.4.0">
     <link id="skin-default" rel="stylesheet" href="./assets/css/theme.css?ver=1.4.0">
@@ -34,7 +34,7 @@
                     <div class="nk-block-head-content">
                         <h5 class="nk-block-title">Sign-In</h5>
                         <div class="nk-block-des">
-                            <p>Access the DashLite panel using your email and passcode.</p>
+                            <p>Access the panel using your email and passcode.</p>
                         </div>
                     </div>
                 </div><!-- .nk-block-head -->
@@ -42,7 +42,6 @@
                     <div class="form-group">
                         <div class="form-label-group">
                             <label class="form-label" for="default-01">Email or Username</label>
-                            <a class="link link-primary link-sm" tabindex="-1" href="#">Need Help?</a>
                         </div>
                         <input type="text" class="form-control form-control-lg" id="default-01" placeholder="Enter your email address or username">
                     </div><!-- .foem-group -->
@@ -65,65 +64,6 @@
                 </form><!-- form -->
                 <div class="form-note-s2 pt-4"> New on our platform? <a href="#">Create an account</a>
                 </div>
-                <div class="text-center pt-4 pb-3">
-                    <h6 class="overline-title overline-title-sap"><span>OR</span></h6>
-                </div>
-                <ul class="nav justify-center gx-4">
-                    <li class="nav-item"><a class="nav-link" href="#">Facebook</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Google</a></li>
-                </ul>
-                <div class="text-center mt-5">
-                    <span class="fw-500">I don't have an account? <a href="#">Try 15 days free</a></span>
-                </div>
-            </div><!-- .nk-block -->
-            <div class="nk-block nk-auth-footer">
-                <div class="nk-block-between">
-                    <ul class="nav nav-sm">
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Terms & Condition</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Privacy Policy</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">Help</a>
-                        </li>
-                        <li class="nav-item dropup">
-                            <a class="dropdown-toggle dropdown-indicator has-indicator nav-link" data-toggle="dropdown" data-offset="0,10"><small>English</small></a>
-                            <div class="dropdown-menu dropdown-menu-sm dropdown-menu-right">
-                                <ul class="language-list">
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/english.png" alt="" class="language-flag">
-                                            <span class="language-name">English</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/spanish.png" alt="" class="language-flag">
-                                            <span class="language-name">Español</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/french.png" alt="" class="language-flag">
-                                            <span class="language-name">Français</span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="language-item">
-                                            <img src="./images/flags/turkey.png" alt="" class="language-flag">
-                                            <span class="language-name">Türkçe</span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </li>
-                    </ul><!-- .nav -->
-                </div>
-                <div class="mt-3">
-                    <p>&copy; 2019 DashLite. All Rights Reserved.</p>
-                </div>
             </div><!-- .nk-block -->
         </div><!-- .nk-split-content -->
         <div class="nk-split-content nk-split-stretch bg-lighter d-flex toggle-break-lg toggle-slide toggle-slide-right" data-content="athPromo" data-toggle-screen="lg" data-toggle-overlay="true">
@@ -135,7 +75,7 @@
                                 <img class="round" src="./images/slides/promo-a.png" srcset="./images/slides/promo-a2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Easy To Use</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
@@ -146,7 +86,7 @@
                                 <img class="round" src="./images/slides/promo-b.png" srcset="./images/slides/promo-b2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Provide Notification</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
@@ -157,7 +97,7 @@
                                 <img class="round" src="./images/slides/promo-c.png" srcset="./images/slides/promo-c2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Track Parcel easily</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
