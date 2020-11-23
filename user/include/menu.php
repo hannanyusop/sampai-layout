@@ -31,6 +31,22 @@
                     </li>
                 </ul>
             </li>
+            <li class="nk-menu-item">
+                <a href="#" class="nk-menu-link">
+                    <span class="nk-menu-icon"><em class="icon ni ni-tags"></em></span>
+                    <span class="nk-menu-text">Trip Management (Admin)</span>
+                </a>
+                <ul class="nk-menu-sub">
+                    <li class="nk-menu-item">
+                        <a href="user/admin-trip-index.php" class="nk-menu-link">
+                            <span class="nk-menu-text">List</span>
+                        </a>
+                        <a href="user/admin-trip-add.php" class="nk-menu-link">
+                            <span class="nk-menu-text">Add Trip</span>
+                        </a>
+                    </li>
+                </ul>
+            </li>
         </ul>
     </div>
     <div class="nk-aside-close">

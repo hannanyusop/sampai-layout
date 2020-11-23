@@ -71,7 +71,7 @@
                                                             <div class="nk-wgw-icon">
                                                                 <em class="icon ni ni-text-rich"></em>
                                                             </div>
-                                                            <h5 class="nk-wgw-title title">Arrive</h5>
+                                                            <h5 class="nk-wgw-title title">Arrived</h5>
                                                         </div>
                                                         <div class="nk-wgw-balance">
                                                             <div class="amount">0</div>

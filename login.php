@@ -86,7 +86,7 @@
                                 <img class="round" src="./images/slides/promo-a.png" srcset="./images/slides/promo-a2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Easy To Use</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
@@ -97,7 +97,7 @@
                                 <img class="round" src="./images/slides/promo-b.png" srcset="./images/slides/promo-b2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Provide Notification</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
@@ -108,7 +108,7 @@
                                 <img class="round" src="./images/slides/promo-c.png" srcset="./images/slides/promo-c2x.png 2x" alt="">
                             </div>
                             <div class="nk-feature-content py-4 p-sm-5">
-                                <h4>Dashlite</h4>
+                                <h4>Track Parcel easily</h4>
                                 <p>You can start to create your products easily with its user-friendly design & most completed responsive layout.</p>
                             </div>
                         </div>
